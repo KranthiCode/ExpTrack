@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "exptrack"
+	},
+	{
+		"path": "exptrack-ui/exptrack-ui"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "frontend",
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
+}

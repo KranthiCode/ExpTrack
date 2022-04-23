@@ -1,0 +1,57 @@
+.left-nav{
+  /* position: fixed; */
+  height: 100vh;
+  /* left: 0;
+  right: 0; */
+  overflow-y: scroll;
+  background-color: #FFFFFF;
+}
+
+.left-nav .header{
+  display: flex;
+}
+
+.left-nav .header-label{
+  display: flex;
+  flex: 1;
+}
+
+.left-nav .header-actions{
+  text-align: right;
+  margin-right: 15px;
+}
+
+.accounts-type{
+  margin: 10px 0 0 10px;
+}
+
+.accounts-type-name {
+  display: flex;
+  flex:1
+}
+
+.accounts-type-balance{
+  text-align: right;
+  margin-right: 15px;
+}
+
+.account{
+  margin: 10px 0 0 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.account-name{
+  display: flex;
+  flex: 1;
+  /* border: none; */
+  background: none;
+  font-weight: 300;
+  font-size: medium;
+}
+
+.account-balance{
+  text-align: right;
+  margin-right: 15px;
+}

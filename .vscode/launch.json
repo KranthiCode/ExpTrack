@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ExptrackApplication<exptrack>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.kks.exptrack.ExptrackApplication",
+      "projectName": "exptrack",
+      "args": ""
+    }
+  ]
+}
